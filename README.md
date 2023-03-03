@@ -1,2 +1,2 @@
 # forkify
-First repo: recipe app
+Recipe app
